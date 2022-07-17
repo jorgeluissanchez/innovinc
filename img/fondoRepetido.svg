@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="5246" viewBox="0 0 1920 5246">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3e63ff"/>
+      <stop offset="1" stop-color="#4ddffd"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.932" x2="0" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-Web_1920_2">
+      <rect width="1920" height="5246"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_2" data-name="Web 1920 – 2" clip-path="url(#clip-Web_1920_2)">
+    <rect width="1920" height="5246" fill="#fff"/>
+    <rect id="Rectángulo_55" data-name="Rectángulo 55" width="2015" height="5310.437" transform="translate(-47 -11.856)" fill="#fbfbfb"/>
+    <rect id="Rectángulo_116" data-name="Rectángulo 116" width="310.927" height="311.927" rx="48" transform="matrix(-0.891, -0.454, 0.454, -0.891, 2014.645, 4230.611)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_123" data-name="Rectángulo 123" width="1919" height="1975.509" transform="translate(2145.147 -211) rotate(47)" fill="#e6e8ef"/>
+    <g id="Grupo_42" data-name="Grupo 42" transform="translate(53.632 -2623.535)">
+      <line id="Línea_2" data-name="Línea 2" x2="163" transform="translate(-6.467 3856.857)" fill="none" stroke="#fff" stroke-width="2" opacity="0.27"/>
+      <line id="Línea_3" data-name="Línea 3" x2="162" transform="translate(259.533 3856.857)" fill="none" stroke="#fff" stroke-width="2" opacity="0.27"/>
+    </g>
+    <rect id="Rectángulo_119" data-name="Rectángulo 119" width="339.802" height="339.802" rx="61" transform="matrix(0.53, 0.848, -0.848, 0.53, 1933.328, 1831.352)" fill="url(#linear-gradient-2)"/>
+    <rect id="Rectángulo_121" data-name="Rectángulo 121" width="396.141" height="396.141" rx="198" transform="translate(1788.961 783.938) rotate(-112)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_124" data-name="Rectángulo 124" width="1919" height="1975.509" transform="matrix(-0.719, 0.695, -0.695, -0.719, 1329.358, 3893.531)" fill="#e6e8ef"/>
+    <rect id="Rectángulo_125" data-name="Rectángulo 125" width="339.802" height="339.802" rx="61" transform="matrix(-0.574, 0.819, -0.819, -0.574, 283.79, 4863.021)" fill="url(#linear-gradient-2)"/>
+    <rect id="Rectángulo_126" data-name="Rectángulo 126" width="396.141" height="396.141" rx="198" transform="translate(-136.292 3277.279) rotate(-65)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_127" data-name="Rectángulo 127" width="310.927" height="311.927" rx="48" transform="matrix(0.53, -0.848, 0.848, 0.53, -214.648, 1230.749)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

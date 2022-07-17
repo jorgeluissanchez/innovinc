@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1076" viewBox="0 0 1920 1076">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3e63ff"/>
+      <stop offset="1" stop-color="#4ddffd"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.932" x2="0" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4ddbfd"/>
+      <stop offset="1" stop-color="#3e65ff"/>
+    </linearGradient>
+    <clipPath id="clip-Web_1920_2">
+      <rect width="1920" height="1076"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_2" data-name="Web 1920 – 2" clip-path="url(#clip-Web_1920_2)">
+    <rect width="1920" height="1076" fill="#fff"/>
+    <rect id="Rectángulo_55" data-name="Rectángulo 55" width="2015" height="7017" transform="translate(-47 -44)" fill="#fbfbfb"/>
+    <path id="Trazado_41" data-name="Trazado 41" d="M279.99,1101.739,2203.294,0V1146.76l-1923.3-45.021Z" transform="translate(3133.52 724.956) rotate(119)" fill="#e6e8ef"/>
+    <rect id="Rectángulo_61" data-name="Rectángulo 61" width="273" height="273" rx="136.5" transform="translate(2016.813 1027.732) rotate(105)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_67" data-name="Rectángulo 67" width="306.356" height="306.356" rx="37" transform="matrix(-0.602, -0.799, 0.799, -0.602, 100.141, 654.518)" fill="url(#linear-gradient-2)"/>
+    <rect id="Rectángulo_63" data-name="Rectángulo 63" width="84" height="84" rx="42" transform="translate(379.563 157.173) rotate(-48)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_71" data-name="Rectángulo 71" width="264" height="264" rx="20" transform="translate(1982.833 94.749) rotate(71)" fill="url(#linear-gradient-2)"/>
+    <rect id="Rectángulo_84" data-name="Rectángulo 84" width="77" height="76" rx="38" transform="translate(1391.523 340.293) rotate(-132)" fill="url(#linear-gradient-5)"/>
+    <rect id="Rectángulo_103" data-name="Rectángulo 103" width="178.735" height="178.735" rx="15" transform="translate(1598.547 572.833) rotate(62)" fill="url(#linear-gradient-2)"/>
+    <rect id="Rectángulo_107" data-name="Rectángulo 107" width="178.735" height="178.735" rx="15" transform="translate(498.194 950.456) rotate(167)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="3684" viewBox="0 0 1920 3684">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3e63ff"/>
+      <stop offset="1" stop-color="#4ddffd"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.932" x2="0" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-Web_1920_2">
+      <rect width="1920" height="3684"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_2" data-name="Web 1920 – 2" clip-path="url(#clip-Web_1920_2)">
+    <rect width="1920" height="3684" fill="#fff"/>
+    <rect id="Rectángulo_55" data-name="Rectángulo 55" width="2015" height="3741" transform="translate(-47 0.119)" fill="#fbfbfb"/>
+    <path id="Trazado_41" data-name="Trazado 41" d="M279.99,1101.739,2203.294,0V1146.76l-1923.3-45.021Z" transform="translate(3133.52 -363.925) rotate(119)" fill="#e6e8ef"/>
+    <rect id="Rectángulo_122" data-name="Rectángulo 122" width="1919" height="1861" transform="translate(-225.52 1286.271) rotate(48)" fill="#e6e8ef"/>
+    <rect id="Rectángulo_61" data-name="Rectángulo 61" width="273" height="273" rx="136.5" transform="translate(2016.813 -61.149) rotate(105)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_109" data-name="Rectángulo 109" width="339.802" height="339.802" rx="61" transform="matrix(-0.53, 0.848, -0.848, -0.53, 253.251, 3331.447)" fill="url(#linear-gradient-2)"/>
+    <rect id="Rectángulo_114" data-name="Rectángulo 114" width="306.356" height="306.356" rx="54" transform="matrix(0.883, 0.469, -0.469, 0.883, 1810.503, 961.11)" fill="url(#linear-gradient-2)"/>
+    <rect id="Rectángulo_116" data-name="Rectángulo 116" width="310.927" height="311.927" rx="48" transform="translate(2008.312 2731.976) rotate(-176)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_115" data-name="Rectángulo 115" width="396.141" height="396.141" rx="198" transform="matrix(0.375, -0.927, 0.927, 0.375, -257.846, 1955.569)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_117" data-name="Rectángulo 117" width="282.598" height="282.598" rx="64" transform="translate(99.418 321.738) rotate(71)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>
