@@ -31,24 +31,24 @@
 
 <body style="background-image: url('./img/fondoRepetido.svg'); background-size: contain;">
     <!-- Header Start -->
-    <div class="container-fluid p-0">
-        <nav class="navbar navbar-expand-lg navbar-light p-0">
+    <div class="container-fluid p-0" style="position: fixed; z-index: 2;">
+        <nav class="navbar navbar-expand-lg navbar-light p-0 " style=" background-color: #fbfbfb;">
 
             <a href="index.html" class="navbar-brand d-block pl-3">
-                <img class="display-4" src="./img/logo.svg " alt="" style="width: 100px">
+                <img class="display-4" src="./img/logo.svg " alt="" style="width: 150px">
             </a>
-            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+            <button type="button" class="navbar-toggler mr-3" data-toggle="collapse" data-target="#navbarCollapse">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                 <div class="navbar-nav text-center mr-auto py-0">
-                    <a href="#" class="nav-item nav-link active">Inicio</a>
-                    <a href="#conócenos" class="nav-item nav-link">Conócenos</a>
-                    <a href="#servicios" class="nav-item nav-link">Servicios</a>
-                    <a href="#iso" class="nav-item nav-link">Normas</a>
-                    <a href="#team" class="nav-item nav-link">Equipo</a>
+                    <a href="#" class="nav-item nav-link p-3 active">Inicio</a>
+                    <a href="#conócenos" class="nav-item p-3 nav-link">Conócenos</a>
+                    <a href="#servicios" class="nav-item p-3 nav-link">Servicios</a>
+                    <a href="#iso" class="nav-item p-3 nav-link">Normas</a>
+                    <a href="#team" class="nav-item p-3 pb-4 nav-link">Equipo</a>
                 </div>
-                <a href="#contactanos" class="btn btn-primary text-white mr-3 d-none d-lg-block">Contactanos</a>
+                <a href="#contactanos" class="btn btn-primary text-white mr-3 d-none d-lg-block">Contáctanos</a>
             </div>
         </nav>
     </div>
@@ -70,12 +70,13 @@
 
 
     <!-- About Start -->
-    <div id="conócenos" class="container-fluid py-5">
-        <div class="container py-5">
+    <div class="container-fluid py-3" style="position: relative;">
+        <div id="conócenos" style="position: absolute; top: -75px;">
+        </div>
+        <div class="container py-3">
             <div class="row align-items-center">
                 <div class="col-lg-5 d-flex justify-content-center align-items-center">
-                    <img class="img-fluid animate__animated animate__fadeInUp rounded" style="" src="img/nosotros.png"
-                        alt="">
+                    <img class="img-fluid animate__animated animate__fadeInUp rounded" src="img/nosotros.png" alt="">
                 </div>
                 <div class="col-lg-7 text-center mt-4 mt-lg-0 mb-2">
                     <h6 class="text-uppercase">¿QUE SOMOS?</h6>
@@ -98,7 +99,7 @@
                 </div>
                 <div class="col-lg-7 mt-4 mt-lg-0 text-center order-lg-1">
                     <h6 class="text-uppercase">¿CUAL ES NUESTRO OBJETVO?</h6>
-                    <h1 class="mb-4">MISIÒN</h1>
+                    <h1 class="mb-4">MISIÓN</h1>
                     <p>Somos una empresa orientada a establecer relaciones de negocios sostenible y de largo
                         plazo, nos dedicamos a escuchar
                         las necesidades de nuestros clientes, con el fin de ayudarles a cumplir sus objetivos
@@ -110,12 +111,11 @@
             </div>
             <div class="row align-items-center mb-2">
                 <div class="col-lg-5 d-flex justify-content-center align-items-center">
-                    <img class="img-fluid  animate__animated animate__fadeInUp rounded" src="img/vision.jpg" alt=""
-                        style="width: 350px; height: 350px; object-fit: cover;">
+                    <img class="img-fluid animate__animated animate__fadeInUp rounded" src="img/vision.png" alt="">
                 </div>
                 <div class="col-lg-7 text-center mt-4 mt-lg-0">
                     <h6 class="text-uppercase">¿QUE NOS PROYECTAMOS?</h6>
-                    <h1 class="mb-4">VISIÒN</h1>
+                    <h1 class="mb-4">VISIÓN</h1>
                     <p>Ser reconocidos para el año 2020 como el mejor socio de negocios para el desarrollo y
                         mejoramiento de procesos aplicando
                         soluciones tecnológicas para las Pymes, apoyándolos mediante la innovación, búsqueda de
@@ -129,11 +129,13 @@
 
 
     <!-- Services Start -->
-    <div id="servicios" class="container-fluid py-5">
-        <div class="container py-5">
+    <div class="container-fluid py-3" style="position: relative;">
+        <div id="servicios" style="position: absolute; top:  -75px;">
+        </div>
+        <div class="container py-3">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h6 class="text-uppercase">¿QUE OFRESEMOS?</h6>
+                    <h6 class="text-uppercase">¿QUE OFRECEMOS?</h6>
                     <h1 class="mb-4">DESCRIPCIÓN DE SERVICIOS</h1>
                 </div>
                 <div class="col-lg-12 ">
@@ -207,8 +209,10 @@
     <!-- Services End -->
 
     <!-- Features Start -->
-    <div id="iso" class="container-fluid py-5">
-        <div class="container py-5">
+    <div class="container-fluid py-3" style="position: relative;">
+        <div id="iso" style="position: absolute; top: -25px;">
+        </div>
+        <div class="container py-3">
             <div class="row">
                 <div class="col-lg-6" style="min-height: 500px;">
                     <div class="position-relative h-100 rounded overflow-hidden">
@@ -306,8 +310,10 @@
 
 
     <!-- Team Start -->
-    <div id="team" class="container-fluid py-5">
-        <div class="container py-5">
+    <div class="container-fluid py-3" style="position: relative;">
+        <div id="team" style="position: absolute; top: -75px;">
+        </div>
+        <div class="container py-3">
             <div class="text-center pb-2">
                 <h6 class="text-uppercase">CONTAMOS CON UN GRAN EQUIPO</h6>
                 <h1 class="mb-4">MIEMBROS DEL EQUIPO</h1>
@@ -357,8 +363,10 @@
 
 
     <!-- Contact Start -->
-    <div id="contactanos" class="container-fluid py-5">
-        <div class="container py-5">
+    <div class="container-fluid py-3" style="position: relative;">
+        <div id="contactanos" style="position: absolute; top: -75px;">
+        </div>
+        <div class="container py-3">
             <div class="text-center pb-2">
                 <h6 class="text-uppercase">CONSULTA CON NOSOTROS</h6>
                 <h1 class="mb-4">CONTACTANOS</h1>
@@ -419,35 +427,63 @@
     <!-- Footer Start -->
     <div class="container-fluid bg-secondary text-white pt-5 px-sm-3 px-md-5" style="margin-top: 90px;">
         <div class="row mt-5">
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-md-6">
                 <div class="d-flex justify-content-lg-center p-4">
-                    <i class="fa fa-2x fa-map-marker-alt text-white"></i>
+                    <img src="./icons/ig.png" alt="" style="width:60px;">
                     <div class="ml-3">
-                        <h5 class="text-white">Nuestra oficina</h5>
-                        <p class="m-0">Barranquilla - Colombia</p>
+                        <h5 class="text-white">Instagram</h5>
+                        <p class="m-0">Barranquilla</p>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-md-6">
                 <div class="d-flex justify-content-lg-center p-4">
-                    <i class="fa fa-2x fa-envelope-open text-white"></i>
+                    <img src="./icons/pint.png" alt="" style="width:60px;">
                     <div class="ml-3">
-                        <h5 class="text-white">Escribenos</h5>
-                        <p class="m-0">infoInnovinc@gmail.com</p>
+                        <h5 class="text-white">Pinterest</h5>
+                        <p class="m-0">+012 345 6789</p>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-md-6">
                 <div class="d-flex justify-content-lg-center p-4">
-                    <i class="fa fa-2x fa-phone-alt text-white"></i>
+                    <img src="./icons/twitter.png" alt="" style="width:60px;">
                     <div class="ml-3">
-                        <h5 class="text-white">Llamanos</h5>
+                        <h5 class="text-white">Twitter</h5>
+                        <p class="m-0">+012 345 6789</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="d-flex justify-content-lg-center p-4">
+                    <img src="./icons/wass.png" alt="" style="width:60px;">
+                    <div class="ml-3">
+                        <h5 class="text-white">WhatsApp</h5>
+                        <p class="m-0">+012 345 6789</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="d-flex justify-content-lg-center p-4">
+                    <img src="./icons/yt.png" alt="" style="width:60px;">
+                    <div class="ml-3">
+                        <h5 class="text-white">YouTube</h5>
+                        <p class="m-0">+012 345 6789</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <div class="d-flex justify-content-lg-center p-4">
+                    <img src="./icons/face.png" alt="" style="width:60px;">
+                    <div class="ml-3">
+                        <h5 class="text-white">facebook</h5>
                         <p class="m-0">+012 345 6789</p>
                     </div>
                 </div>
             </div>
         </div>
         <div class="row p-4 mt-5 mx-0">
+
             <div class="col-md-12 text-center mb-3 mb-md-0">
                 <p class="m-0 text-white">INNOVINC. All Rights
                     Reserved.</p>
@@ -478,7 +514,7 @@
             backSpeed: 50,
             loop: false,
             startDelay: 1000,
-            showCursor: false,
+            showCursor: true,
             loopCount: Infinity
         });
     </script>
